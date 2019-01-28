@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=fila\ columna
+comment0.target=Coordenadas(int,\ int)
+comment0.text=\r\n\ Contructor\r\n\ @param\ fila\ El\ valor\ de\ la\ fila\r\n\ @param\ columna\ El\ valor\ de\ la\ columna\r\n
+comment1.params=
+comment1.target=int\ getFila()
+comment1.text=\r\n\ Devuelve\ la\ posici\u00F3n\ de\ la\ fila\r\n\ \r\n\ @return\ \ x\ \ La\ posici\u00F3n\ de\ la\ fila\r\n
+comment2.params=
+comment2.target=int\ getColumna()
+comment2.text=\r\n\ Devuelve\ la\ posici\u00F3n\ de\ la\ columna\ \r\n\ \r\n\ @return\ y\ La\ posici\u00F3n\ de\ la\ columna\r\n
+comment3.params=fila
+comment3.target=void\ setFila(int)
+comment3.text=\r\n\ Le\ asigna\ una\ nueva\ posici\u00F3n\ en\ la\ fila\ sin\ modificar\ la\ columna\r\n\ @param\ ejeX\ La\ nueva\ posici\u00F3n\ en\ el\ eje\ Y\r\n
+comment4.params=columna
+comment4.target=void\ setColumna(int)
+comment4.text=\r\n\ Le\ asigna\ una\ nueva\ posici\u00F3n\ al\ componente\ en\ la\ columna\ sin\ modificar\ la\ fila\r\n\ @param\ y\ La\ nueva\ posici\u00F3n\ del\ fantasma\ en\ el\ eje\ Y\r\n
+comment5.params=fila\ columna
+comment5.target=void\ setPosicion(int,\ int)
+comment5.text=\r\n\ Asignar\ una\ posici\u00F3n\ completamente\ nueva\ introduciendo\ la\ fila\ y\ la\ columna\r\n\ @param\ ejeX\ La\ posicion\ en\ el\ eje\ X\r\n\ @param\ ejeY\ La\ posicion\ en\ el\ eje\ Y\r\n
+comment6.params=coordenada
+comment6.target=void\ setPosicion(Coordenadas)
+comment6.text=\r\n\ Asignar\ una\ posici\u00F3n\ completamente\ nueva\ introduciendo\ otro\ objeto\ de\ tipo\ Coordenadas\r\n\ @param\ Coordenada\ El\ objeto\ Coordenadas\ con\ la\ nueva\ posicion\r\n
+comment7.params=coordenada
+comment7.target=int\ porDondeVenia(Coordenadas)
+comment7.text=\r\n\ Compara\ nuestra\ coordenada\ con\ otra\ coordenada\ adyacente\ y\ devuelve\ determinados\ valores\ dependiendo\ de\ la\ posici\u00F3n\ respecto\r\n\ a\ esa\ otra\ coordenada.\r\n\ \r\n\ Cabe\ destacar\ que\ este\ m\u00E9todo\ solo\ lo\ usar\u00E9\ para\ comprobar\ coordendas\ adyacentes\ (arriba\ y\ abajo,\ izquierda\ y\ derecha)\ y\ estar\u00E1\r\n\ implementado\ para\ tal\ uso.\ Si\ se\ introduce\ una\ coordenada\ que\ no\ sea\ adyacente,\ el\ resultado\ devuelto\ no\ ser\u00E1\ el\ correcto.\r\n\ \r\n\ \r\n\ @param\ coordenada\ La\ coordenada\ sobre\ la\ que\ que\ queremos\ realizar\ la\ comparaci\u00F3n\r\n\ @return\ 1\ si\ nuestra\ coordenada\ es\ una\ coordenada\ superior\ a\ la\ que\ estamos\ comparando,\ 2\ si\ es\ inferior,\ 3\ si\ se\ encuentra\ a\ la\ izquierda\r\n\ \ \ \ \ \ \ \ \ y\ 4\ si\ se\ encuentra\ a\ la\ derecha.\ 0\ si\ es\ la\ misma\ coordenada\r\n
+numComments=8

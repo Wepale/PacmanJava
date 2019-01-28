@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PacMan()
+comment0.text=\r\n\ Crea\ a\ Pacman\ con\ sus\ correspondientes\ imagenes\ y\ su\ posici\u00F3n\ inicial\ en\ la\ matriz\r\n
+comment1.params=
+comment1.target=java.awt.Image\ getImagenDerecha()
+comment1.text=\r\n\ Devuelve\ la\ imagen\ correspondiente\ cuando\ pacman\ se\ mueve\ hacia\ la\ derecha\r\n\ @return\ imagenDerecha\ Imagen\ de\ pacman\ moviendose\ hacia\ la\ derecha\r\n
+comment2.params=
+comment2.target=java.awt.Image\ getImagenArriba()
+comment2.text=\r\n\ Devuelve\ la\ imagen\ correspondiente\ cuando\ pacman\ se\ mueve\ arriba\r\n\ @return\ imagenArriba\ Imagen\ de\ pacman\ moviendose\ hacia\ arriba\r\n
+comment3.params=
+comment3.target=java.awt.Image\ getImagenAbajo()
+comment3.text=\r\n\ Devuelve\ la\ imagen\ correspondiente\ cuando\ pacman\ se\ mueve\ hacia\ abajo\r\n\ @return\ imagenAbajo\ Imagen\ de\ pacman\ moviendose\ hacia\ abajo\r\n
+numComments=4

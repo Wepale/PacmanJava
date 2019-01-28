@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Marcador()
+comment1.params=
+comment1.target=void\ sumarBola()
+comment1.text=\r\n\ Realiza\ la\ suma\ de\ los\ puntos\ correspondientes\ a\ una\ bola\r\n
+comment2.params=
+comment2.target=void\ sumarFantasma()
+comment2.text=\r\n\ Realiza\ la\ suma\ de\ los\ puntos\ correspondientes\ a\ un\ fantasma\r\n
+comment3.params=
+comment3.target=int\ getPuntos()
+comment3.text=\r\n\ Devuelve\ el\ campo\ puntos\r\n\ @return\ puntos\r\n
+comment4.params=
+comment4.target=int\ getNumeroBolas()
+comment4.text=\r\n\ Devuelve\ el\ campo\ bolasComidas\r\n\ @return\ bolasComidas\r\n
+comment5.params=controlador\ tablero
+comment5.target=boolean\ bolaComida(ControladorPacman,\ Inicio.Modelo.Tablero)
+comment5.text=\r\n\ Actualiza\ una\ casilla\ del\ tablero\ a\ valor\ 0.\ Se\ usar\u00E1\ para\ controlar\ cuantas\ bolas\ ha\ comido\ Pacman.\r\n\ Si\ es\ una\ bola\ peque\u00F1a\ la\ borrar\u00E1\ del\ tablero\ y\ sumara\ los\ puntos.\ Si\ es\ una\ bola\ grande\ la\ quitara\ del\ tablero,\r\n\ sumara\ los\ puntos\ y\ devolver\u00E1\ la\ bandera\ que\ posteriormente\ se\ utilizar\u00E1\ para\ activar\ la\ protecci\u00F3n\r\n\ \r\n\ @param\ controlador\ Nuestro\ controlador\ de\ Pacman\r\n\ @param\ tablero\ Nuestro\ tablero\ para\ realizar\ modificaciones\r\n\ @return\ true\ se\ si\ come\ una\ bola\ grande,\ false\ en\ caso\ contrario.\r\n
+numComments=6

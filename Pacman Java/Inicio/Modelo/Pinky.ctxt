@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pinky()
+comment0.text=\r\n\ Crea\ un\ fastasma\ con\ la\ imagen\ de\ blinky\ y\ su\ posici\u00F3n\ inicial\ en\ la\ matriz\r\n
+comment1.params=pacman\ tablero
+comment1.target=Coordenadas\ calcularMovimiento(PacMan,\ Tablero)
+comment1.text=\r\n\ Reescribimos\ el\ m\u00E9todo\ para\ Pinky.\ Para\ acercarse\ a\ Pac-Man\ calcular\u00E1\ la\ distancia\ e\ intentar\u00E1\ primero\ acercarse\ horizontalmente\r\n\ y\ luego\ verticalmente.\ Este\ m\u00E9todo\ controlara\ que\ sea\ un\ movimento\ v\u00E1lido,\ es\ decir,\ que\ no\ se\ salga\ del\ laberinto\r\n\ @param\ pacman\ Nuestro\ Pacman,\ para\ saber\ donde\ se\ encuentra\r\n\ @param\ tablero\ El\ tablero\ para\ que\ el\ fantasma\ sepa\ por\ donde\ circular\r\n
+numComments=2

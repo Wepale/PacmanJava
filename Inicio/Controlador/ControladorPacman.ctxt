@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ControladorPacman()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=
+comment1.target=int\ getControladorImagen()
+comment1.text=\r\n\ Devuelve\ el\ controlador\ de\ imagen\r\n\ @return\ controladorDeImagen\ 1->izquierda,\ 2->derecha\ ,3->arriba,\ 4->abajo\r\n
+comment2.params=pacman
+comment2.target=void\ moverPacman(Inicio.Modelo.PacMan)
+comment2.text=\r\n\ Este\ metodo\ es\ el\ encargado\ de\ mover\ a\ pacman\ por\ la\ pantalla\r\n\ @pacman\ Nuestro\ pacman\r\n
+comment3.params=e\ pacman
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent,\ Inicio.Modelo.PacMan)
+comment3.text=\r\n\ Este\ m\u00E9todo\ ser\u00E1\ el\ encargado\ de\ recibir\ los\ eventos\ de\ teclado\ que\ est\u00E9n\ relacionados\ con\ Pacman.\ Solo\ ser\u00E1\ posible\r\n\ asignar\ una\ nueva\ posici\u00F3n\ cuando\ la\ bandera\ controlMovimiento\ sea\ igual\ a\ true\ y\ esto\ solo\ ocurrira\ cuando\r\n\ se\ halla\ desplazado\ los\ 20\ p\u00EDxeles\ que\ existen\ entre\ cada\ casilla\r\n\ \r\n\ @param\ e\ Para\ recoger\ la\ tecla\ pulsada\r\n\ @param\ pacman\ Nuestro\ pacman\r\n
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.text=\r\n\ Este\ metodo\ definira\ las\ acciones\ correspondientes\ asociadas\ al\ soltar\ de\ una\ tecla.\r\n\ \r\n\ Realmente\ no\ hay\ nada\ que\ hacer\r\n
+numComments=5

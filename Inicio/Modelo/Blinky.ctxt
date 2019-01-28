@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Blinky()
+comment0.text=\r\n\ Crea\ un\ fantasma\ con\ la\ imagen\ de\ Blinky\ y\ su\ posici\u00F3n\ inicial\ en\ la\ matriz\r\n
+comment1.params=pacman\ tablero
+comment1.target=Coordenadas\ calcularMovimiento(PacMan,\ Tablero)
+comment1.text=\r\n\ Reescribimos\ el\ metodo\ para\ Blinky.Para\ acercarse\ a\ Pac-Man\ calcular\u00E1\ la\ distancia\ e\ \r\n\ intentar\u00E1\ primero\ acercarse\ verticalmente\ y\ luego\ horizontalmente.\ Este\ metodo\ controlara\ que\r\n\ sea\ un\ movimento\ valido,\ es\ decir,\ que\ no\ se\ salga\ del\ laberinto\r\n\ \r\n\ @param\ pacman\ Nuestro\ Pacman,\ para\ saber\ su\ posici\u00F3n\r\n\ @param\ tablero\ El\ tablero\ para\ que\ el\ fantasma\ sepa\ por\ donde\ circular\r\n
+numComments=2

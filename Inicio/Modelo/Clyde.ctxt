@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clyde()
+comment0.text=\r\n\ Crea\ un\ fantasma\ con\ la\ imagen\ de\ Clyde\ y\ su\ posici\u00F3n\ inicial\ en\ la\ matriz\r\n
+comment1.params=sentido
+comment1.target=void\ setSentido(int)
+comment1.text=\r\n\ Modifica\ el\ sentido\ en\ el\ que\ circula\ Clyde\r\n\ \r\n\ @param\ sentido\ 1->Abajo;\ 2->Arriba;\ 3->Derecha;\ 4->Izquierda\r\n
+comment2.params=x
+comment2.target=void\ setCaminoEncontrado(boolean)
+comment2.text=\r\n\ Modifica\ la\ bandera\ que\ indica\ si\ se\ ha\ encontrado\ un\ camino\ valido\r\n\ \r\n\ @param\ x\ true\ si\ lo\ ha\ encontrado,\ false\ en\ caso\ contrario\r\n
+comment3.params=tablero
+comment3.target=boolean\ existeCruceHorizontal(Tablero)
+comment3.text=\r\n\ Este\ m\u00E9todo\ devolver\u00E1\ una\ bandera\ que\ indicar\u00E1\ si\ Clyde\ ha\ llegado\ a\ un\ cruce\ cuando\ circulaba\ de\ forma\ vertical.\r\n\ @param\ tablero\ El\ tablero\ matem\u00E1tico\ del\ juego\r\n\ @return\ true\ si\ hay\ un\ cruce,\ false\ en\ caso\ contrario\r\n
+comment4.params=tablero
+comment4.target=boolean\ existeCruceVertical(Tablero)
+comment4.text=\r\n\ Este\ m\u00E9todo\ devolver\u00E1\ una\ bandera\ que\ indicar\u00E1\ si\ Clyde\ ha\ llegado\ a\ un\ cruce\ cuando\ circulaba\ de\ forma\ horizontal.\r\n\ @param\ tablero\ El\ tablero\ matem\u00E1tico\ del\ juego\r\n\ @return\ true\ si\ hay\ un\ cruce,\ false\ en\ caso\ contrario\r\n
+comment5.params=pacman\ tablero
+comment5.target=Coordenadas\ calcularMovimiento(PacMan,\ Tablero)
+comment5.text=\r\n\ Reescribimos\ el\ m\u00E9todo\ para\ Clyde.\ Clyde\ no\ sigue\ ninguna\ ruta\ espefic\u00EDfica\ para\ acercarse\ a\ Pacman,\r\n\ simplemente\ deambula\ por\ el\ laberinto\ aleatoriamente.\r\n\ \r\n\ La\ forma\ en\ la\ que\ Clyde\ se\ movera\ aleatoriamente\ ser\u00E1\ la\ siguiente\:\ \r\n\ Clyde\ circula\ por\ una\ calle\ hasta\ que\ se\ encuentre\ con\ un\ muro\ o\ un\ cruce.\ Solo\ en\ este\ momento\ podra\ cambiar\ de\ direcci\u00F3n,\r\n\ eligiendo\ una\ de\ las\ calles\ del\ cruce,\ pero\ nunca\ podr\u00E1\ dar\ un\ giro\ de\ 180\u00BA.\ \r\n\ \r\n\ @param\ pacman\ Nuestro\ Pacman,\ aunque\ en\ este\ caso\ no\ lo\ necesitaremos\r\n\ @param\ tablero\ El\ tablero\ para\ que\ el\ fantasma\ sepa\ por\ donde\ circular\r\n
+numComments=6

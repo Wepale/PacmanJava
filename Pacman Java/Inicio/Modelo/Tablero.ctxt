@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tablero()
+comment0.text=\r\n\ Constructor\r\n\ \r\n\ Crea\ una\ nueva\ matriz\ con\ el\ valor\ de\ la\ variables\ FILAS\ y\ COLUMNAS\r\n
+comment1.params=fila\ columna
+comment1.target=int\ getTablero(int,\ int)
+comment1.text=\r\n\ Devuelve\ el\ valor\ que\ contiene\ una\ determinada\ posici\u00F3n\r\n\ @param\ fila\ La\ fila\ a\ la\ que\ queremos\ acceder\r\n\ @param\ columna\ La\ columna\ a\ la\ que\ queremos\ acceder\r\n\ @return\ El\ valor\ de\ dicha\ posicion\r\n
+comment2.params=valor\ fila\ columna
+comment2.target=void\ setTablero(int,\ int,\ int)
+comment2.text=\r\n\ Actualiza\ el\ valor\ de\ una\ determinada\ posici\u00F3n\r\n\ @param\ valor\ El\ valor\ que\ queremos\ introducir\r\n\ @param\ fila\ La\ fila\ a\ la\ que\ queremos\ acceder\r\n\ @param\ columna\ La\ columna\ a\ la\ que\ queremos\ acceder\r\n
+comment3.params=
+comment3.target=int\ getFilas()
+comment3.text=\r\n\ Devuelve\ el\ n\u00FAmero\ de\ filas\ de\ tablero\r\n\ @return\ El\ n\u00FAmero\ de\ filas\r\n
+comment4.params=
+comment4.target=int\ getColumnas()
+comment4.text=\r\n\ Devuelve\ el\ n\u00FAmero\ de\ columnas\ del\ tablero\r\n\ @return\ El\ n\u00FAmero\ de\ columnas\r\n
+comment5.params=
+comment5.target=void\ rellenarTablero()
+comment5.text=\r\n\ Rellena\ la\ matriz\ con\ los\ valores\ adecuados\r\n
+numComments=6

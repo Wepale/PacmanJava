@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pacman\ blinky\ pinky\ clyde
+comment0.target=boolean\ colisionPacmamFantasma(PacMan,\ Fantasmas,\ Fantasmas,\ Fantasmas)
+comment0.text=\r\n\ Este\ m\u00E9todo\ servir\u00E1\ para\ saber\ si\ Pacman\ a\ colisionado\ con\ alguno\ de\ los\ fantasmas\r\n\ \r\n\ @param\ pacman\ Nuestro\ pacman\r\n\ @param\ blinky\ Cualquier\ fantasma\r\n\ @param\ pinky\ Cualquier\ fantasma\r\n\ @param\ clyde\ Cualquier\ fantasma\r\n\ @return\ true\ si\ pacman\ a\ colisionado\ con\ algun\ fantasma,\ false\ en\ caso\ contrario\r\n
+comment1.params=pacman\ fantasma
+comment1.target=boolean\ colisionPacmanFantasma(PacMan,\ Fantasmas)
+comment1.text=\r\n\ Este\ m\u00E9todo\ servir\u00E1\ para\ saber\ si\ Pacman\ a\ colisionado\ con\ un\ fantasma\ en\ particular\r\n\ \r\n\ @param\ pacman\ Nuestro\ pacman\r\n\ @param\ fantasma\ Cualquier\ fantasma\r\n\ @return\ true\ si\ pacman\ a\ colisionado\ con\ el\ fantasma,\ false\ en\ caso\ contrario\r\n
+comment2.params=fantasma1\ fantasma2
+comment2.target=boolean\ colisionEntreFantasmas(Fantasmas,\ Fantasmas)
+comment2.text=\r\n\ Este\ m\u00E9todo\ tendr\u00E1\ la\ finalidad\ de\ saber\ si\ dos\ fantasmas\ han\ colisionado\ entre\ ellos\r\n\ \r\n\ @param\ fantasma1\ el\ primer\ fantasma\r\n\ @param\ fantasma2\ el\ segundo\ fantasma\r\n\ @return\ true\ si\ han\ colisionado\ entre\ ellos,\ false\ en\ caso\ contrario\r\n
+numComments=3

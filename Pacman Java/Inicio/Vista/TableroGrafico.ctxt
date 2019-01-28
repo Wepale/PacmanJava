@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TableroGrafico()
+comment0.text=\r\n\ Contructor.\r\n\ Propiamente\ dicho,\ todo\ esta\ labor\ la\ realiza\ el\ metodo\ constructor()\r\n
+comment1.params=
+comment1.target=void\ constructor()
+comment1.text=\r\n\ Inicilazacion\ y\ creacion\ de\ todos\ los\ compentes\ del\ juego,\ los\ cuales\ estaran\ contenidos\ en\ el\ jPanel\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Este\ m\u00E9todo\ sera\ ejecutado\ cada\ vez\ que\ queramos\ actualizar\ nuestra\ vista\ del\ juego.\r\n
+numComments=3
